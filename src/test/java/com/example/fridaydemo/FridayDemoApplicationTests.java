@@ -11,4 +11,8 @@ class FridayDemoApplicationTests {
 		throw new Exception("Error");
 	}
 
+	@Test
+	void completeSuccessfully() {
+
+	}
 }
